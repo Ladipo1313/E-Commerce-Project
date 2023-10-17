@@ -13,6 +13,8 @@ The sole aim of an E-commerce firm in analysing its data is to create a competit
 competitors.
 
 CASE PROBLEM
+
+
 Our client needs to analyse and oversee its sales and marketing process effectively.
 The client’s demand was to create an e commerce analysis dashboard for the year 2021 and 2022 so they can have insights on the
 following:
@@ -48,6 +50,8 @@ in US for the Year 2021 and 2022.
 From the visualised dashboard, data driven decisions and insights were drafted.
 
 INSIGHTS AND RECOMMENDATIONS
+
+
 i. The top 5 products with the highest sales are staples $242,271, staple envelopes $241,675, easy staple paper $204,567, avery-non-stick binder
 $100,135, and staples in misc colors $96,287 while
 ii. The bottom 5 products with the lowest sales are canon MF8580Cdw $2,385, RCA ViSYS 25423RE1 Corded phone $2,315, NeatDesk Desktop Scanner
@@ -73,6 +77,8 @@ profit was made in the month of October $402,565, and the lowest profit at $186,
 ![](./E_Commerce.jpg)
 
 SUMMARY
+
+
 This e-commerce analysis provides valuable insights into the performance and trends within the business:
 PRODUCT FOCUS: The top-selling products include staples and related office supplies, indicating a need for increased promotion and
 attention to these items to drive sales.
